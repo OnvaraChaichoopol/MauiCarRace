@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiCarRace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+73a9f1ff3073d54ae68b5a2210c6eae78eeff33d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+eeda746f24178b58c8b4f7d9a727ecffeed2d0e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiCarRace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiCarRace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
